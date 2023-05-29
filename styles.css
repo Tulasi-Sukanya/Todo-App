@@ -3,6 +3,7 @@
 }
 body {
     background-color: black;
+    width:90%;
 }
 
 .link-deco {
@@ -14,7 +15,10 @@ body {
     text-decoration: none;
     color: #e84343;
 }
-
+#add-new-item-box{
+    display: grid;
+    margin: auto;
+}
 .header {
     padding: 5px;
     display: flex;
